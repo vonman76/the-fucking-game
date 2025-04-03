@@ -8,17 +8,24 @@
 Else
 >Plants! (Mushrooms)
 >Cave environment (Plain looking)
->Beach looking area
+>Beach looking area (Small hills with water at the bottom)
+
+
 
 
 Stuff to Do
 Getting around - point A to point B
 Puzzle platforming
+Fighting Husks
+Fighting Fish
+Fighting some Animals
+
+Characters
+Willis - someone from the ship that's a medic.
 
 
-
-
-
+Misc
+Variants of man-made and creature-made ropes
 
 
 
